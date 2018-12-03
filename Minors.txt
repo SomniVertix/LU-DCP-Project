@@ -1,0 +1,711 @@
+Accounting 		18
+ACCT 211	Financial Accounting	3
+ACCT 212	Managerial Accounting	3
+ACCT 301	Intermediate Accounting I	3
+ACCT 311	Cost Accounting I	3
+ACCT 401	Taxation I	3
+BUSI 301	Business Law	3
+Aeronautics 		22
+AVIA 102	Aviation Orientation	1
+AVIA 210	Private Ground I	3
+AVIA 215	Private Ground II	3
+AVIA 220	Private Flight I	3
+AVIA 225	Private Flight II	3
+AVIA 300	Aviation Safety	3
+AVIA 305	Airplane Aerodynamics	3
+AVIA 310	Instrument Ground	3
+Airline Flight Attendant		22
+AVIA 101	Exploring Aviation	3
+AVIA 103	Flight Attendance Orientation	1
+AVIA 210	Private Ground I	3
+AVIA 300	Aviation Safety	3
+AVIA 400	Aviation Human Factors	3
+AVIA 460	Aviation Interview	3
+FACS 130	Intro to Hospitality, Foods & Food Safety	3
+HLTH 205	Accident Prevention & Care (First Aid)	3
+American Sign Language		18
+ASLI 101	American Sign Language I	3
+ASLI 102	American Sign Language II	3
+ASLI 201	American Sign Language III	3
+ASLI 202	American Sign Language IV	3
+ASLI 310	Deaf Studies	3
+ASLI 313	Introduction to Interpreting	3
+Apologetics and Cultural Engagement		15
+APOL 201	Apologetics & Cultural Engagement	3
+APOL   	Apologetics Elective (300-400 level)	3
+ENGL 417	Writing as Cultural Engagement	3
+THEO 201	Theology Survey I	3
+THEO 202	Theology Survey II	3
+Biblical Greek 		15
+GREK   	Greek Elective (100-400 level)	15
+Biblical Languages		18
+GREK 201	Greek Grammar I	3
+GREK 202	Greek Grammar II	3
+GREK 301	Greek Grammar III	3
+GREK 302	Greek Syntax & Reading	3
+HBRW 201	Hebrew Grammar I	3
+HBRW 202	Hebrew Grammar II	3
+Biblical Studies 		15
+BIBL   	Biblical Studies Elective (300-400 level)	12
+Choose one course from the following:		3
+BIBL 471	Biblical Archaeology	
+BIBL 472	New Testament Backgrounds	
+BIBL 473	Old Testament Backgrounds	
+Biology 		19
+BIOL 224	General Biology I	4
+BIOL 225	General Biology II	4
+Choose 11 credits from the following disciplines:		11
+BIOL, BCHM, ENVR		
+Biomedical Sciences		17-18
+BIOL 224	General Biology I	4
+BIOL 225	General Biology II	4
+BIOL 313	Clinical Human Anatomy	3
+BIOL 385	Advanced Human Physiology	3
+Choose one course from the following:		4-Mar
+BIOL 301	Genetics	
+BIOL 303	Microbiology	
+BIOL 305	Parasitology	
+BIOL 330	Histology	
+BCHM 450	Medical Biochemistry	
+BCHM 451	Biochemistry I	
+Business 		18
+ACCT 211	Financial Accounting	3
+BUSI 301	Business Law	3
+BUSI 303	International Business	3
+or BUSI 330	Principles of Marketing	
+BUSI 310	Principles of Management	3
+BUSI 472	Organizational Ethics	3
+ECON 214	Principles of Macroeconomics	3
+Camp and Outdoor Adventure Leadership		15
+CHMN 201	Introduction to Church Ministries	
+COAL 210	Introduction to COAL	
+COAL 220	Foundations & Programming of COAL	
+COAL 310	Christian Camp: Site Plan & Design	
+COAL 370	Managing the Christian Ministry Org.	
+Chemistry		20-22
+CHEM 121	General Chemistry I	4
+CHEM 122	General Chemistry II	4
+CHEM 301	Organic Chemistry I	4
+CHEM 302	Organic Chemistry II	4
+Choose 4 to 6 credits from the following:		6-Apr
+CHEM 321	Analytical Chemistry	
+CHEM 322	Instrumental Analysis	
+CHEM 461	Physical Chemistry I	
+CHEM 462	Physical Chemistry II	
+CHEM 465	Physical Chemistry I Lab	
+CHEM 466	Physical Chemistry II Lab	
+Chinese 		15
+CHIN 101	Elementary Chinese I	3
+CHIN 102	Elementary Chinese II	3
+CHIN 201	Intermediate Chinese I	3
+CHIN 202	Intermediate Chinese II	3
+CHIN 497	Special Topics in Chinese	3
+Cinematic Arts 		15
+CINE 201	Introduction to Screenwriting	3
+CINE 202	Introduction to Motion Picture Directing	3
+CINE 203	Intro. to Cinematography & Sound Design	3
+CINE   	Cinematic Arts Electives (100-400 level)	6
+Coaching		18
+SMGT 300	Introduction to Coaching	3
+SMGT 307	Coaching Fall Sports	3
+SMGT 308	Coaching Spring Sports	3
+SMGT 314	Coaching Dynamics	3
+SMGT 400	Sport & Exercise Psychology	3
+SMGT 304	Coaching Football	3
+or SMGT 306	Coaching Basketball	
+Computer Science		21
+CSIS 110	Introduction to Computer Sciences	3
+CSIS 111	Introduction to Programming	3
+CSIS 112	Advanced Programming	3
+CSIS 215	Algorithms & Data Structures	3
+CSIS   	Comp. Science Electives (300-400 level)	6
+MATH 250	Introduction to Discrete Mathematics	3
+Creation Studies		
+BIBL 410	Genesis	3
+CRST 290	History of Life	2
+CRST 390	Origins	3
+Choose courses from the following:		
+BIOL 321	Comparative Anatomy of the Vertebrates	
+BIOL 371	Vertebrate Paleontology	
+BIOL 415	Cell Biology	
+BIOL 102/104	Principles of Human Biology/Lab	
+or BIOL 225	General Biology II	
+or BIOL 213-216**Human Anatomy & Physiology I/Lab		
+PHSC 210/211	Elements of Earth Science/Lab	
+or ENVR 220/221 Physical Geology/Lab		
+PHSC 310	Astronomy: An Integrated Approach	
+or PHSC 121/122 Introduction to Astronomy/Lab		
+**If BIOL 213/214/215/216 is selected only 4 credits will be applied to the minor.		
+Creative Writing 		15
+ENGL 101	Composition & Rhetoric	3
+WRIT 201	Introduction to Creative Writing	3
+WRIT 305	Introduction to Inspirational Writing	3
+WRIT 400	Editing, Layout & Publishing	3
+WRIT 402	Methods & Materials of Research	3
+Criminal Justice 		15
+CJUS 200	Introduction to Criminal Justice	3
+CJUS 340	Criminology	3
+CJUS   	Crim. Justice Electives (300-400 level)	9
+Digital Media - Audio		18
+DIGI 175	Fundamentals of Editing	3
+DIGI 224	Fundamentals of Audio Production	3
+DIGI 225	Introduction to Video Production	3
+Choose three courses from the following:		9
+DIGI 250	Location Sound	
+DIGI 290	Post Production Sound Design	
+DIGI 324	Vocal Development	
+DIGI 334	Intermediate Audio Production	
+DIGI 337	Music Recording	
+DIGI 454	Radio News Production	
+DIGI 474	Advanced Audio Production	
+DIGI 490	SFX, ADR & Foley	
+Digital Media - Editing		18
+DIGI 175	Fundamentals of Editing	3
+DIGI 224	Fundamentals of Audio Production	3
+DIGI 225	Introduction to Video Production	3
+Choose three courses from the following:		9
+DIGI 282	Intermediate Editing & Effects	
+DIGI 290	Post Production Sound Design	
+DIGI 350	Editing Theory	
+DIGI 490	SFX, ADR & Foley	
+Digital Media - Performance		18
+DIGI 175	Fundamentals of Editing	3
+DIGI 224	Fundamentals of Audio Production	3
+DIGI 225	Introduction to Video Production	3
+Choose three courses from the following:		9
+DIGI 220	Writing for Storytelling	
+DIGI 230	Essential Production Tools	
+DIGI 310	The Digital Media Producer & Director	
+DIGI 324	Vocal Development	
+DIGI 330	On Camera Presentation	
+DIGI 333	Intermediate Video Production	
+DIGI 340	Sports Broadcasting	
+DIGI 343	TV News Production	
+DIGI 345	Producing TV News	
+DIGI 370	Studio Production	
+DIGI 454	Radio News Production	
+Digital Media - Video		18
+DIGI 175	Fundamentals of Editing	3
+DIGI 224	Fundamentals of Audio Production	3
+DIGI 225	Introduction to Video Production	3
+Choose three courses from the following:		9
+DIGI 230	Essential Production Tools	
+DIGI 282	Intermediate Editing & Effects	
+DIGI 310	The Digital Media Producer & Director	
+DIGI 330	On Camera Presentation	
+DIGI 333	Intermediate Video Production	
+DIGI 343	TV News Production	
+DIGI 345	Producing TV News	
+DIGI 350	Editing Theory	
+DIGI 370	Studio Production	
+DIGI 428	Media Industry & Ethics	
+DIGI 483	Advanced Video Production	
+Digital Media - Writing for Digital Media		18
+DIGI 220	Writing for Storytelling	3
+DIGI 240	Writing for Visual Media	3
+DIGI 354	Storytelling: Sitcom	3
+DIGI 373	Storytelling: Episodic Drama	3
+Choose one course from the following:		3
+JOUR 220	News Writing & Reporting I	
+JOUR 225	Media Writing	
+Choose one course from the following:		3
+JOUR 354	News Writing & Reporting II	
+JOUR 356	Social Media Writing	
+JOUR 358	Strategic Web Writing	
+English 		15
+Choose one course from the following:		3
+ENGL 307	Expository Writing	
+ENGL 416	Writing	
+ENGL 433	Literary Criticism	
+Choose one course from the following:		3
+ENGL 333	Modern Grammar	
+ENGL 364	History of the English Language	
+Choose one course from the following:		3
+ENGL 304	Period	
+ENGL 413	Period	
+Choose one course from the following:		3
+ENGL 305	Genre	
+ENGL 414	Genre	
+Choose one course from the following:		3
+ENGL 308	Author	
+ENGL 322	Shakespeare	
+ENGL 412	Author	
+Expositional Preaching		18
+BIBL 350	Inductive Bible Study	3
+BIBL 370	Logos Bible Software	3
+BIBL 480	Hermeneutics	3
+PLED 421	Homiletics I	3
+PLED 422	Homiletics II	3
+PLED 446	Christocentric Preaching	3
+FACS- Clothing and Textiles		15
+FACS 222	Design & Construction I for Apparel	3
+FACS 225	Introduction to the Fashion Industry	3
+FACS 320	Textiles: Fibers & Fabrics	3
+Choose two courses from the following:		6
+FACS 322	Design & Construction II for Apparel	
+FACS 325	Psycho-Social Aspects of Clothing	
+FACS 423	Fashion Promotion/Visual Merchandising	
+FACS 429	History of Costume	
+FACS- Family and Child Development		15
+FACS 205	Development of Contemporary Families	3
+FACS 370	Parenting	3
+FACS 475	Families Under Stress	3
+Choose two courses from the following:		6
+FACS 260	Early Childhood I	
+FACS 361	Therapy & Theory of Play in Early Childhood	
+FACS 365	Admin. of Family & Child Life Programs	
+FACS 455	Family & Individual Resource Management	
+FACS 470	Internal Dynamics of Families	
+FACS- General 		16
+FACS 103	Intro. to Family & Consumer Sciences	1
+FACS 130	Principles of Food & Food Safety	3
+FACS 205	Development of Contemporary Families	3
+FACS 221	Design & Construction I for Interiors	3
+or FACS 222	Design & Construction I for Apparel	
+FACS 340	Housing: Consumer & Community	3
+Choose one course from the following:		3
+FACS 225	Introduction to the Fashion Industry	
+FACS 230	Food Science & Management	
+FACS 325	Psycho-Social Aspects of Clothing	
+FACS 350	Family Economic Decisions	
+FACS 455	Family & Individual Resource Management	
+French 		15
+FREN 102**	Elementary French II	3
+FREN 201	Intermediate French I	3
+FREN 202	Intermediate French II	3
+FREN   	French Electives (300-400 level)	6
+**Those students with prior language study are encouraged to consider CLEP for lower level language credits.		
+German 		15
+GRMN 101	Elementary German I	3
+GRMN 102	Elementary German II	3
+GRMN 201	Intermediate German I	3
+GRMN 202	Intermediate German II	3
+GRMN 497	Special Topics in German	3
+Global Studies 		15
+GLST 200	Introduction to Global Studies	3
+GLST 220**	Intercultural Comm. & Engagement	3
+GLST 290**	Cultural Anthropology	3
+GLST 385	Career Preparation for Global Workers	3
+GLST   	Global Studies Elective (300-400 level)	3
+**When this minor has been declared, GLST 220 substitutes for EVAN 101 and GLST 290 substitutes for the social science elective.		
+Government 		15
+GOVT 200	Constitutional Govt. & Free Enterprise	3
+GOVT 220	American Government	3
+GOVT   	Government Elective (300-400 level)	3
+Choose two courses from the following:		6
+GOVT 350	Political Economy & Public Policy	
+GOVT 421	American Constitutional History	
+GOVT 490	Political Theory	
+Graphic Design 		18
+ARTS/FACS 113	Introduction to 2D Design	3
+or ARTS 114	Introduction to 3D Design	
+ARTS 222	Introduction to Graphic Design	3
+ARTS 332	Vector Illustration	3
+ARTS 342	Digital Imaging	3
+ARTS 352	Graphic Design I	3
+ARTS 371	Graphic Design II	3
+Health Promotion		17
+BIOL 213	Human Anatomy & Physiology I	3
+BIOL 214	Human Anatomy & Physiology I Lab	1
+BIOL 215	Human Anatomy & Physiology II	3
+BIOL 216	Human Anatomy & Physiology II Lab	1
+HLTH 350	Intro. to Public & Community Health	3
+HLTH 420	Prin. of Behavior Change & Health Counseling	3
+HLTH 453	Program Planning & Evaluation in Health Edu.	3
+History 		18
+Choose three courses from the following:		9
+HIEU 201	History of Western Civilization I	
+HIEU 202	History of Western Civilization II	
+HIUS 221	Survey of American History I	
+or HIUS 223	Survey of American History I (On Site)	
+HIUS 222	Survey of American History II	
+Choose three 300-400 level courses from the following disciplines: HIEU, HIST, HIUS, or HIWD		9
+Information Security		18
+BUSI 310	Principles of Management	3
+CSIS 330	Business Data Communication Systems	3
+CSIS 340	Studies in Information Security	3
+CSIS 341	Information Security Planning	3
+CSIS 344	Information Security Operations	3
+Choose one course from the following:		3
+CJUS 380	Introduction to Homeland Security	
+GOVT 380	Intro. to Intelligence & National Security	
+Information Systems		18
+CSIS 100	Intro to Information Sciences & Systems	3
+CSIS 208	Application Programming	3
+CSIS 212	Object-Oriented Programming	3
+CSIS 325	Database Management Systems	3
+CSIS 351	System Analysis & Design	3
+CSIS 405	Business & Economic Forecasting	3
+International Relations**		18
+GOVT 330	Introduction to Comparative Politics	3
+GOVT 340	International Relations	3
+GOVT 425	American Foreign Policy	3
+Choose three courses from the following:		9
+GOVT 332	Politics of Europe	
+GOVT 334	Politics of Latin America	
+GOVT 335	Politics of Asia	
+GOVT 337	Politics of the Middle East	
+GOVT 405	Political & Economic Development	
+GOVT 440	Political Geography	
+GOVT 445	International Law	
+GOVT 480	Terrorism	
+**Prerequisite for all upper-level GOVT courses is GOVT 200		
+International Studies		18
+HIEU 201	History of Western Civilization I	3
+HIEU 202	History of Western Civilization II	3
+HIWD 370	Comparative Civilization	3
+Choose three courses from the following:		9
+HIEU 390	Twentieth Century Europe	
+HIUS 470	American Foreign Relations Since 1776	
+HIWD 320	History of Africa	
+HIWD 341	Modern Islamic Civilization	
+HIWD 350	East Asian Civilization	
+HIWD 372	Latin American Civilization: National Period	
+HIWD 375	Korean & Vietnam Wars	
+Journalism 		18
+JOUR 220	News Writing & Reporting I	3
+JOUR 354	News Writing & Reporting II	3
+Choose one course from the following:		3
+ARTS 222	Introduction to Graphic Design	
+DIGI 175	Fundamentals of Editing	
+DIGI 224	Fundamentals of Audio Production	
+DIGI 225	Introduction to Video Production	
+STCO 289	Digital Promotion Technologies & Applications	
+Choose three courses from the following:		9
+ARTS 224	Media Design	
+JOUR 234	Modern Copy Editing	
+JOUR 356	Social Media Writing	
+JOUR 358	Strategic Web Writing	
+JOUR 360	Media Convergence	
+JOUR 370	Sports Writing	
+JOUR 373	Editorial & Opinion Writing	
+JOUR 374	Magazine Writing & Editing	
+JOUR 375	Community Reporting	
+JOUR 390**	Champion Practicum	
+JOUR 485	Investigative Reporting	
+**JOUR 390 is 1 credit; students must take course 3 times		
+Kinesiology 		15
+EXSC 302	Exercise & Sports Injuries	2
+KINE 101	Physical Fitness	1
+KINE 208	Motor Learning	2
+KINE 209	Motor Learning Lab	1
+KINE 210-215	Pedagogical Sport/Activity Courses	2
+KINE 225	Weight Training & Conditioning	1
+KINE   	Kinesiology Elective (300-400 level)	3
+SMGT 300	Introduction to Coaching	3
+Linguistics 		18
+LING 301	Introduction to Linguistics	3
+LING 305	Linguistic Analysis Theory/Application	3
+LING 451	Phonetics & Phonology	3
+LING 452	Morphology & Syntax Application	3
+Choose two courses from the following:		6
+LING 280	Field Language Learning	
+LING 300	Cultural Anthropology	
+LING 453	World Languages	
+Mathematics 		24-25
+MATH 131	Calculus & Analytic Geometry I	4
+MATH 132	Calculus & Analytic Geometry II	4
+MATH 133	Calculus with Mathematica Lab	1
+MATH 200	Introduction to Mathematical Reasoning	3
+MATH 211	Introduction to Statistical Analysis	3
+Choose one group from the following:**		10-Sep
+MATH 221	Applied Linear Algebra	
++ 6 hours MATH electives (300-400 level)		
+or MATH 231	Calculus & Analytical Geometry III	
++ 6 hours MATH electives (300-400 level)		
+or MATH   	Elective 9 hours (300-400 level)	
+**MATH 400 may not be used to fulfill requirements		
+Military History		18
+HIUS 221	Survey of American History I	3
+or HIUS 223	Survey of American History I (On Site)	
+HIUS 222	Survey of American History II	3
+HIUS 380	Modern American Military History	3
+Choose three courses from the following:		9
+HIEU 425	The French Revolution/Napoleonic Era	
+HIEU 455	World War II	
+HIUS 312	Era of the American Revolution	
+HIUS 420	Civil War & Reconstruction	
+HIUS 470	American Foreign Relations Since 1776	
+HIWD 375	Korean & Vietnam Wars	
+Military Leadership*		23
+HIUS 380	Modern American Military History	3
+MISC 001	Introduction to Applied Military Leadership I	1
+MISC 002	Introduction to Applied Military Leadership II	1
+MISC 003	Intermediate Applied Military Leadership I	1
+MISC 004	Intermediate Applied Military Leadership II	1
+MISC 005	Advanced Applied Military Leadership I	1
+MISC 006	Advance Applied Military Leadership II	1
+MISC 007	Advanced Applied Military Leadership III	1
+MISC 008	Advanced Applied Military Leadership IV	1
+MISC 101	Fundamental Concepts	1
+MISC 102	Basic Leadership	1
+MISC 201	Advanced Leadership	1
+MISC 202	Tactics & Officership	1
+MISC 301	Small Unit Leadership	2
+MISC 302	Small Unit Operations	2
+MISC 401	Leadership, Management & Ethics	2
+MISC 402	Transition to Lieutenant	2
+*Available for students accepted in the Army ROTC program.		
+Music- Brass, Woodwind or Percussion**		18
+MUSC 105	Harmonic Practices & Theory I	3
+MUSC 106	Harmonic Practices & Theory II	3
+MUSC 107	Musicianship I	1
+MUSC 108	Musicianship II	1
+MUSC 151	Guitar, Strings, Brass, Wdwnds, Percussion (Fr)	1
+MUSC 152	Guitar, Strings, Brass, Wdwnds, Percussion (Fr)	1
+MUSC 251	Guitar, Strings, Brass, Wdwnds, Percussion (So)	1
+MUSC 252	Guitar, Strings, Brass, Wdwnds, Percussion (So)	1
+MUSC 351	Guitar, Strings, Brass, Wdwnds, Percussion (Jr)	1
+MUSC 352	Guitar, Strings, Brass, Wdwnds, Percussion (Jr)	1
+Choose two courses from the following:		4
+MUSC 355	Brass Techniques	
+MUSC 357	Woodwind Techniques	
+MUSC 363	Percussion Techniques	
+**Program has the additional requirement of attendance at 24 approved concerts and recitals. CSTU 101 or MUSC 103 must be completed for Core Competency requirement.		
+Music- Liberal Arts**		17
+MUSC 105	Harmonic Practices & Theory I	3
+MUSC 106	Harmonic Practices & Theory II	3
+MUSC 107	Musicianship I	1
+MUSC 108	Musicianship II	1
+MUSC 311	Music History (Antiquity-1750)	3
+MUSC 312	Music History since 1750	3
+Choose one course from the following:		3
+MUSC 319	Choral Literature	
+MUSC 407	Solo Vocal Literature	
+**Program has the additional requirement of attendance at 24 approved concerts and recitals. CSTU 101 or MUSC 103 must be completed for Core Competency requirement.		
+Music- Performance: Voice, Keyboard, Guitar or Strings** 		
+MUSC 105	Harmonic Practices & Theory I	3
+MUSC 106	Harmonic Practices & Theory II	3
+MUSC 107	Musicianship I	1
+MUSC 108	Musicianship II	1
+Choose one group from the following:		6
+Voice		
+MUSC 121	Voice (Freshman)	
+MUSC 122	Voice (Freshman)	
+MUSC 221	Voice (Sophomore)	
+MUSC 222	Voice (Sophomore)	
+MUSC 321	Voice (Junior)	
+MUSC 322	Voice (Junior)	
+Piano		
+MUSC 141	Private Piano (Freshman)	
+MUSC 142	Private Piano (Freshman)	
+MUSC 241	Private Piano (Sophomore)	
+MUSC 242	Private Piano (Sophomore)	
+MUSC 341	Private Piano (Junior)	
+MUSC 342	Private Piano (Junior)	
+Guitar, Strings, Brass, Woodwinds, Percussion		
+MUSC 151	Guitar, Strings, Brass, Wdwnds, Percussion (Fr)	
+MUSC 152	Guitar, Strings, Brass, Wdwnds, Percussion (Fr)	
+MUSC 251	Guitar, Strings, Brass, Wdwnds, Percussion (So)	
+MUSC 252	Guitar, Strings, Brass, Wdwnds, Percussion (So)	
+MUSC 351	Guitar, Strings, Brass, Wdwnds, Percussion (Jr)	
+MUSC 352	Guitar, Strings, Brass, Wdwnds, Percussion (Jr)	
+Two semesters of ensemble participation in the performance area:		2
+Voice:	MUSC 178, 180, 181, 182, 189, 289, 389, 480, 481, 482	
+Keyboard:		
+Guitar:	MUSC 178, 189, 289, 389	
+String:	MUSC 179, 479	
+Specific Area Courses:	MUSC 185, 485	
+Voice:		3
+Keyboard:	MUSC 393 Vocal Diction	
+Guitar:	MUSC 304 Keyboard Pedagogy	
+Strings:	MUSC 477 Guitar Pedagogy	
+**Program has the additional requirement of attendance at 24 approved concerts and recitals. CSTU 101 or MUSC 103 must be completed for Core Competency requirement.	MUSC 375 String Pedagogy	
+New Testament		
+BIBL 350		15
+BIBL 472	Inductive Bible Study	3
+Choose one course from the following:	New Testament Backgrounds	3
+BIBL 460		3
+BIBL  *	New Testament Theology	
+Choose one course from the following:	New Testament Elective (300-400 level)	
+BIBL 323		3
+BIBL 324	John	
+BIBL 330	Pastoral Epistles and Leadership Dev.	
+BIBL 364	Life of Christ	
+Choose one course from the following:	Acts	
+BIBL 425		3
+BIBL 450	Romans	
+BIBL 471	Daniel – Revelation	
+BIBL 480**	Biblical Archaeology	
+*Choose a course not already applying to minor from:	Hermeneutics	
+BIBL 323, 324, 330, 364, 425, 450, 471, or 480		
+**Needs approval of Department Chair		
+Old Testament 		15
+BIBL 350	Inductive Bible Study	3
+BIBL 473	Old Testament Backgrounds	3
+Choose one course from the following:		3
+BIBL 461	Old Testament Theology	
+BIBL  *	Old Testament Elective (300-400 level)	
+Choose one course from the following:		3
+BIBL 311	Joshua thru Judges	
+BIBL 314	Old Testament Poetical Books	
+BIBL 316	Isaiah	
+BIBL 317	Minor Prophets	
+Choose one course from the following:		3
+BIBL 410	Genesis	
+BIBL 450	Daniel – Revelation	
+BIBL 471	Biblical Archaeology	
+BIBL 480**	Hermeneutics	
+*Choose a course not already applying to the minor from: BIBL 311, 314, 316, 317, 410, 418, 471, or 480		
+**Needs approval of Department Chair		
+Pastoral Leadership		15
+CHMN 201	Introduction to Church Ministries	3
+PLED 201	Foundation to Pastoral Leadership	3
+PLED 301	Family Ministry in the Church	3
+PLED 302	Staff Management/Relations	3
+PLED 350	Pastoral Duties	3
+Philosophy 		15
+PHIL   	Philosophy Elective (100-400 level)	3
+PHIL   	Philosophy Elective (300-400 level)	9
+Choose one course from the following:		3
+PHIL 301	History of Philosophy I	
+PHIL 302	History of Philosophy II	
+PHIL 303	History of Philosophy III	
+Photography 		18
+ARTS 301	Introduction to Film Photography	3
+ARTS 342	Digital Imaging	3
+ARTS 361	Digital Photography	3
+ARTS 461	Advanced Digital Photography	3
+ARTS 469	Conceptual/Fine Art Photo./Portfolio	3
+Choose one course from the following:		3
+ARTS/FACS 113	Introduction to 2D Design	
+ARTS 114	Introduction to 3D Design	
+Politics and Policy **		15
+GOVT 350	Political Economy & Public Policy	3
+Choose four courses from the following:		12
+GOVT 320	American Executive Processes/Institutions	
+GOVT 322	American Legislative System	
+GOVT 327	State & Local Government	
+GOVT 328	American Political Processes	
+GOVT 360	Introduction to Public Administration	
+GOVT 425	American Foreign Policy	
+**Prerequisite for all upper-level GOVT courses is GOVT 200		
+Psychology 		15
+PSYC 101	General Psychology	3
+or PSYC 210	Developmental Psychology	
+PSYC 255	Introduction to Research	3
+PSYC   	Psychology Elective (200-400 level)	3
+PSYC   	Psychology Electives (300-400 level)	6
+Sociology 		15
+SOCI 200	Introduction to Sociology	3
+SOCI 201	Social Problems	3
+Choose three courses from the following:**		9
+PSYC 305	Theory & Treatment of Substance Abuse	
+PSYC 312	Social Psychology	
+PSYC 317	Crisis Intervention	
+PSYC 336	Gerontology	
+PSYC 361	Marriage & Family	
+PSYC 497	Psychology Seminar	
+PSYC 499	Internship	
+SOCI 313	Social Organizations	
+SOCI 340	Human Societies: A Global View	
+SOCI 349	Sociology of Disability	
+SOCI 497	Special Topics in Sociology	
+SOWK 200	Intro to Social Work & Human Services	
+**No more than 2 PSYC courses can be selected		
+Spanish 		15
+SPAN   	Spanish Elective (100-400 level)	6
+SPAN   	Spanish Elective (300-400 level)	9
+Special Education**		15
+EDSP 323	Special Education Law & Characteristics	2
+EDSP 325	Special Ed. Law & Char. Com. Practicum	1
+EDSP 363	Behavior Management	2
+EDSP 365	Collab. In Special Ed. Com. Practicum	1
+EDSP 413	Inclusion & Diversity	2
+EDSP 415	Inclusion & Diversity: Practicum	1
+EDSP 473	Transition Planning	2
+EDSP 475	Transition Planning Com. Practicum	1
+PSYC 345	Exceptional Child	3
+**All correlating courses and practicums must be done concurrently		
+Sport Management		15
+SMGT 200	Introduction to Sport Mgt.	3
+SMGT 302	Sport Facilities & Events	3
+SMGT 305	Sport Law	3
+SMGT 404	Admin. & Org. in Sport & Recreation	3
+SMGT   	Sport Management Elective (400 level)	3
+Sport Outreach 		18
+SMGT 312	Introduction to Sport Ministry Outreach	3
+SMGT 315	Concepts & Practices in Sport Outreach	3
+SMGT 317	Mentoring in Sport	3
+SMGT 321	Global Sport Outreach	3
+SMGT 401	Sport Methodology, Methods/Practices	3
+SMGT 402	Sport Chaplaincy	3
+Strategic and Intelligence Studies		15
+GOVT 200	Constitutional Gov. & Free Enterprise	3
+or GOVT 220	American Government	
+Choose two courses from the following:		6
+GOVT 380	Intro. to Intelligence & National Security	
+GOVT 381	Intelligence Analysis	
+GOVT 480	Terrorism	
+Choose two courses from the following:		6
+GOVT  *	Strat. Intelligence Elective (300-400 level)	
+*Choose a course not already applying to the minor from: GOVT 380-389 or GOVT 480-489		
+Studio Art 		18
+ARTS/FACS 113	Introduction to 2D Design	3
+or ARTS 114	Introduction to 3D Design	
+ARTS   	Art Electives (may choose a second combination from list below)	9
+Choose one group from the following:		6
+ARTS 211 & 311	Drawing I & II	
+ARTS 321 & 420	Painting I & II	
+ARTS 330 & 430	Sculpture I & II	
+ARTS 361 & 461	Digital Photography	
+Technical Studies		15
+CRFT 101		3
+Choose 12 credits from the following disciplines: CARP, ELTC, HVAC, PLMB, WELD		12
+Theatre Arts 		17
+THEA 200	Play Production (2 Semesters)	2
+THEA 211	Foundations of Theater History I	3
+or THEA 212	Foundations of Theater History II	
+THEA 220	Acting I	3
+THEA 250	Voice for the Stage	3
+THEA 310	Acting II	3
+THEA 312	Script Analysis	3
+Theology 		15
+THEO   	Theology Elective (100-400 level)	6
+THEO   	Theology Elective (300-400 level)	9
+Western Legal Traditions**		18
+GOVT 345	Jurisprudence	3
+GOVT 346	Legal Research & Writing	3
+PHIL 210	Logic	3
+Choose one course from the following:		3
+GOVT 477	Trial Advocacy	
+GOVT 478	Appellate Advocacy	
+SCOM 335	Argumentation	
+Choose one course from the following:		3
+GOVT 421	American Constitutional History	
+GOVT 422	American Constitutional Law	
+Choose one course from the following:		3
+BUSI 301	Business Law	
+CJUS 400	Criminal Law	
+CJUS 410	Constitutional Criminal Procedure	
+GOVT 445	International Law	
+GOVT 470	Govt. Regulation of Business	
+SMGT 305	Sport Law	
+**All upper-level GOVT courses require a prerequisite of GOVT 200; SCOM 335 requires a prerequisite of COMS 101; BUSI 301 requires a prerequisite of Sophomore standing; all upper-level CJUS courses requires a prerequisite of CJUS 200 and 230, SMGT 305 requires completion of all 200-level SMGT courses, BMIS 201 or consent of instructor as a prerequisite.		
+Women’s Leadership		15
+CHMN 201	Introduction to Church Ministries	3
+WLED 220	Survey of Women’s Ministries	3
+WLED 320	Spiritual Form. & Dvlpmt for Women in Ldrshp	3
+WLED 330	The Role of Christian Women in Ministry	3
+WLED 387	Methods Tchng Bible & Comm. Skills for Women 3	
+Writing 		15
+ENGL 333	Modern Grammar	3
+ENGL 350	Advanced Expository Writing	3
+WRIT 305	Introduction to Inspirational Writing	3
+Choose two courses from the following:		6
+CJUS 230	Criminal Justice Research & Writing	
+ENGL 322	Shakespeare	
+ENGL 341	American Realism & Naturalism	
+ENGL 460	Christian Literature	
+GOVT 346	Legal Research & Writing	
+JOUR 225	Media Writing	
+RLGN 301	Research & Writing for Religious Disciplines	
+Youth Ministries		15
+CHMN 201	Introduction to Church Ministries	3
+YOUT 201	Survey of Youth Ministries	3
+YOUT 220	Global Youth Culture	3
+Choose two courses from the following:		6
+YOUT 310	Strategies for Student Outreach	
+YOUT 340	Current Issues in Youth Ministry	
+YOUT 370	Managing the Christian Youth Organization	
+YOUT 380	Ministering to Adolescents in Crisis	
